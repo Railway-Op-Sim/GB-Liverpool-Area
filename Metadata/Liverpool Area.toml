@@ -13,3 +13,4 @@ name = "Liverpool Area"
 signal_position = "left"
 author = "AlbertBall"
 contributors = []
+ssn_files = [ "Liverpool Lime Street prestart session.ssn",]
