@@ -1,6 +1,6 @@
+Liverpool UK incorporating ground-level services in October 2024 to and from Lime Street station
 
-
-![Image of Current State of Map](Images/Liverpool Lime Street.jpg)
+![Liverpool-Area](Images/Liverpool-Lime-Street.jpg)
 
 ## Current Status
 
@@ -12,11 +12,15 @@
 | Speed Limits | :heavy_check_mark: |
 | Distances | :heavy_check_mark: |
 | Timetable | :heavy_check_mark: |
-| Documentation | :x: |
+| Documentation | :heavy_check_mark: |
 
 
 ## Data Sources
 
-- A List of links pointing to various sources
-- For example:
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+- [TRAKSY.UK](https://traksy.uk/)
+- [RealTimeTrains](https://www.realtimetrains.co.uk/search/detailed)
+- [Open Train Times](https://www.opentraintimes.com/maps)
+- [OpenRailwayMap](https://www.openrailwaymap.org/)
+- [Network Rail North Western (North) Sectional Appendix](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
+
+Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com.
